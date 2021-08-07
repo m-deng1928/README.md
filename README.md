@@ -1,7 +1,7 @@
 # 2022 Design Opportunities
 
 Full Time
-| First Header  | Second Header | Second Header
+| Company  | Location | Details
 | ------------- | ------------- | -------------
 | Content Cell  | Content Cell  | Content Cell 
 | Content Cell  | Content Cell  | Content Cell 
@@ -12,12 +12,12 @@ Full Time
 | Content Cell  | Content Cell  | Content Cell 
 
 Intern
-| Company  | Role | Location | Time | Detail 
-| ------------- | ------------- | ------------- | -------------
-| Content Cell  | Content Cell  | Content Cell  | Content Cell 
-| Content Cell  | Content Cell  | Content Cell  | Content Cell 
+| Company  | Location | Details
+| ------------- | ------------- | -------------
+| (Hasbro - Product Design Co-Op)[https://jobs.hasbro.com/job/Pawtucket-Product-Design-Co-op-%28Sept-Dec-2021%29-Rhod-02861/757972500/?utm_source=LINKEDIN&utm_medium=referrer]| Pawtucket, RI | Fall 2021 (Sep-Dec)
+| Content Cell  | Content Cell  | Content Cell 
 
-| Company  | Role | Location | Time | Detail 
-| ------------- | ------------- | ------------- | ------------- 
-| Content Cell  | Content Cell  | Content Cell  | Content Cell 
-| Content Cell  | Content Cell  | Content Cell  | Content Cell 
+| First Header  | Second Header | Second Header
+| ------------- | ------------- | -------------
+| Content Cell  | Content Cell  | Content Cell 
+| Content Cell  | Content Cell  | Content Cell 
