@@ -12,12 +12,12 @@ Full Time
 | Content Cell  | Content Cell  | Content Cell 
 
 Intern
-| Company  | Role | Location | Time | Detail | 
+| Company  | Role | Location | Time | Detail 
 | ------------- | ------------- | ------------- | -------------
 | Content Cell  | Content Cell  | Content Cell  | Content Cell 
 | Content Cell  | Content Cell  | Content Cell  | Content Cell 
 
-| Company  | Role | Location | Time | Detail | 
+| Company  | Role | Location | Time | Detail 
 | ------------- | ------------- | ------------- | ------------- 
 | Content Cell  | Content Cell  | Content Cell  | Content Cell 
 | Content Cell  | Content Cell  | Content Cell  | Content Cell 
