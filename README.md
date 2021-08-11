@@ -9,9 +9,9 @@ Full Time
 | Content Cell  | Content Cell  | Content Cell 
 
 Intern
-| Company  | Location | Details
-| ------------- | ------------- | -------------
-| [Hasbro - Product Design Co-Op](https://jobs.hasbro.com/job/Pawtucket-Product-Design-Co-op-%28Sept-Dec-2021%29-Rhod-02861/757972500/?utm_source=LINKEDIN&utm_medium=referrer)| Pawtucket, RI | Fall 2021 (Sep-Dec)
+| Company  | Location | Details | Date Added
+| ------------- | ------------- | ------------- | -------------
+| [Hasbro - Product Design Co-Op](https://jobs.hasbro.com/job/Pawtucket-Product-Design-Co-op-%28Sept-Dec-2021%29-Rhod-02861/757972500/?utm_source=LINKEDIN&utm_medium=referrer)| Pawtucket, RI | Fall 2021 (Sep-Dec) | 8/6
 | [Pearlfisher - Design](http://careers.pearlfisher.com/apply/mocrNgHF7a/Design-Intern-Graduate?source=LILI#mocrNgHF7a) | New York, NY | Summer 2022 (?)
 | [Anduril Industries - Visual Design](https://jobs.lever.co/anduril/56400dde-641e-406b-9853-87225232a86d/apply?lever-source=LinkedIn)  | Irvine, CA  | Summer 2022 (?)
 | [Procter & Gamble - Design Co-Op](https://www.pgcareers.com/job/cincinnati/design-co-op/936/8471475792?source=RS_LINKEDIN)  | Cincinnati, OH  | Fall 2021 (Aug-Dec)/Winter (Jan-May)/Spring 2022 (May-Aug)
